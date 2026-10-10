@@ -6,4 +6,4 @@
 - ⚡ Foco em estágio como dev
 
 #### 🛠️ Tecnologias
-Python | SQLite | Git | GitHub
+Python | SQLite | GitHub
