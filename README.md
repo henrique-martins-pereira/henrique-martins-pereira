@@ -1,8 +1,22 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,100:990000&height=180&section=header&text=HENRIQUE%20MARTINS&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PYTHON%20%7C%20SQL%20%7C%20POWER%20BI&descAlignY=60&descSize=17" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Estudante+de+Tecnologia;Python+%7C+SQL+%7C+Power+BI;Aprendendo+e+construindo+projetos;Transformando+conhecimento+em+solu%C3%A7%C3%B5es" /><br/>""GitHub" (https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/henrique-martins-pereira)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red)" (https://www.linkedin.com/in/henrique-martins-896387363/)
-""Instagram" (https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=red)" (https://www.instagram.com/__rickm__/)
-
-</div>---
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,100:990000&height=180&section=header&text=HENRIQUE%20MARTINS&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PYTHON%20%7C%20SQL%20%7C%20POWER%20BI&descAlignY=60&descSize=17" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Estudante+de+Tecnologia;Python+%7C+SQL+%7C+Power+BI;Aprendendo+e+construindo+projetos;Transformando+conhecimento+em+solu%C3%A7%C3%B5es" /><br/><table align="center">
+<tr>
+<td align="center">
+<a href="https://github.com/henrique-martins-pereira">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="https://www.linkedin.com/in/henrique-martins-896387363/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</td>
+<td align="center">
+<a href="https://www.instagram.com/__rickm__/">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</td>
+</tr>
+</table></div>---
 
 👨‍💻 Sobre mim
 
@@ -20,11 +34,24 @@ Acredito que cada projeto é uma oportunidade de aprender algo novo e evoluir co
 
 ---
 
-🛠️ Tecnologias e ferramentas
+🛠️ Tecnologias
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,mysql,sqlite,vscode,git,github&theme=dark" /><br/><br/>
-
-<img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=red" /></div>---
+<div align="center"><table>
+<tr>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="65" />
+<br/><strong>Python</strong>
+</td>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="65" />
+<br/><strong>SQL</strong>
+</td>
+<td align="center" width="180">
+<img src="https://img.icons8.com/color/96/power-bi.png" width="65" />
+<br/><strong>Power BI</strong>
+</td>
+</tr>
+</table></div>---
 
 🚀 Projetos em destaque
 
@@ -34,9 +61,9 @@ Acredito que cada projeto é uma oportunidade de aprender algo novo e evoluir co
 
 Projeto voltado ao registro e gerenciamento de despesas, com foco na organização financeira e prática de programação.
 
-""Acessar projeto" (https://img.shields.io/badge/ACESSAR%20PROJETO-990000?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/henrique-martins-pereira/controle-gastos)
+<div align="center">""Acessar projeto" (https://img.shields.io/badge/ACESSAR%20PROJETO-990000?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/henrique-martins-pereira/controle-gastos)
 
----
+</div>---
 
 🎯 Objetivos
 
